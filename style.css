@@ -1,0 +1,14 @@
+#greetings{
+    background-color: aqua;
+    color: brown;
+    width: 200px;
+    height: 100px;
+    text-align: right;
+}
+#reply{
+    background-color: blue;
+    color: brown;
+    width: 1000px;
+    height: 200px;
+    text-align: justify;
+}
